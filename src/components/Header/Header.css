@@ -1,0 +1,11 @@
+.header {
+    background-color: #1C2833;
+}
+  
+.header h1 {
+    font-size: 30px;
+    color: #F5B041;
+    text-align: right;
+    margin-top: 0.5%;
+    margin-right: 1%;
+}
