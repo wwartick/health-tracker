@@ -8,6 +8,7 @@ A project I can come back to every day and work on and make better. Ideally I ca
 
 # Change log
  (2023)
- 3/3 - Started site, added title and background, intialized in react
  
+ 3/3 - Started site, added title and background, intialized in react
+
  3/4 - added Time and Date, 
