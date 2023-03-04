@@ -1,7 +1,15 @@
-.Title {
-    font-size: 30px;
-    color: #F5B041;
-    display: inline-block;
-    width: 99%;
-    text-align: right;
-  }
+.title {
+  font-size: 30px;
+  color: #F5B041;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+}

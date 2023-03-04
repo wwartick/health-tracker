@@ -1,14 +1,20 @@
 import React from 'react';
 import './header.css';
 import Clock from '../Clock';
+import Weather from '../Weather';
 
 function Header() {
-    return (
-        <div className ="header">
-            <span className='Title'>Self-Health Tracker </span>
-            <Clock />
-        </div>
-    );
-  }
+  return (
+    <div className="header">
+      <div className="left-side">
+        <Weather />
+      </div>
+      <div className="right-side">
+        <span className='title'>Daily Tracker</span>
+        <Clock />
+      </div>
+    </div>
+  );
+}
 
-  export default Header;
+export default Header;
