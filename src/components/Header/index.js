@@ -1,10 +1,12 @@
 import React from 'react';
-import './Header.css';
+import './header.css';
+import Clock from '../Clock';
 
 function Header() {
     return (
         <div className ="header">
-            <h1>Placeholder</h1>
+            <span className='Title'>Self-Health Tracker </span>
+            <Clock />
         </div>
     );
   }
