@@ -11,4 +11,4 @@ A project I can come back to every day and work on and make better. Ideally I ca
  
  3/3 - Started site, added title and background, intialized in react
 
- 3/4 - added accurate clock and date. added weather forecast based on user location(need to accept in browser in order to display).
+ 3/4 - added Time and Date, 

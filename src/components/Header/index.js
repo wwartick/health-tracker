@@ -10,7 +10,7 @@ function Header() {
         <Weather />
       </div>
       <div className="right-side">
-        <span className='title'>Daily Tracker</span>
+        <span className='title'>The Bread of the Sandwich</span>
         <Clock />
       </div>
     </div>
